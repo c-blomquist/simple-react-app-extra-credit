@@ -1,0 +1,24 @@
+{
+  "name": "simple-react-app-extra-credit",
+  "version": "1.0.0",
+  "description": "Extra Credit work for Web Dev Class at Towson University will be deployed using heroku after finishing development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-blomquist/simple-react-app-extra-credit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-blomquist/simple-react-app-extra-credit/issues"
+  },
+  "homepage": "https://github.com/c-blomquist/simple-react-app-extra-credit#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
